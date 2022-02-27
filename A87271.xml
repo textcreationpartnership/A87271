@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pope's bull against the archbishop of Cambray's book, in full length Innocent XII. Pope, ad perpetuam rei memoriam.</title>
+            <title>Cum alias. English</title>
+            <author>Catholic Church. Pope (1691-1700 : Innocent XII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87271</idno>
+            <idno type="STC">Wing I204C</idno>
+            <idno type="STC">ESTC R43649</idno>
+            <idno type="EEBO-CITATION">42475057</idno>
+            <idno type="OCLC">ocm 42475057</idno>
+            <idno type="VID">151182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151182)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2248:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pope's bull against the archbishop of Cambray's book, in full length Innocent XII. Pope, ad perpetuam rei memoriam.</title>
+                  <title>Cum alias. English</title>
+                  <author>Catholic Church. Pope (1691-1700 : Innocent XII)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>English translation from Latin, of the papal brief against Fénelon's book, Explication des maximes des saints sur la vie interieure.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fénelon, François de Salignac de La Mothe-, 1651-1715. --  Explication des maximes des saints sur la vie interieure.</term>
+               <term>Quietism --  Early works to 1800.</term>
+               <term>Briefs, Papal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151182:1"/>
+            <head>
+               <hi>The POPE's Bull, AGAINST</hi> The Arch-Biſhop of <hi>Cambray</hi>'s Book, in full length. <hi>INNOCENT</hi> XII. POPE, Ad Perpetuam Rei Memoriam.</head>
+            <p>WHEREAS we have formerly been Advertiſed of the Publication of a Certain Book, Written in <hi>French,</hi> and Entituled, <hi>The Explication of the Maxims of the Saints, Concerning the Internal Life,</hi> by <hi>Monſieur Francis de Salignac Fenelon,</hi> Arch-Biſhop of <hi>Cambray,</hi> &amp;c. And whereas ſo great and frequent Complaints have been raiſed in <hi>France</hi> of the Unſoundneſs of the Doctrin Contained in the ſaid Book, as requires the timely Aſſiſtance of our Paſtoral Care; we have therefore Committed the ſaid Book to be Examined ſeriouſly (as the weightineſs of the Subject ſeemed to require) to ſeveral of our Reverend Brethren, the Cardinals and other Doctors of Divinity. Accordingly, in obedience to our Com<g ref="char:EOLhyphen"/>mands, after they by a conſtant and exact Enquiry, had diſcuſſed ſeveral Propoſitions taken out of that Book in ſeveral Congregations, they have Certified to us, both by word of Mouth, and by Writing, what was their Opinion of each particular. Having therefore heard their Sentiments, and being willing to prevent (as far as is allowed us by a Power from on High) the dangers of Chriſt's Flock, Entruſted to Us by the Eternal Shepherd: We, by our own proper Motion, out of our own certain Knowledge, and Mature deliberation, and by the Plenitude of our A<g ref="char:EOLhyphen"/>poſtolical Power, do by theſe Preſents, Condemn and Diſallow the a<g ref="char:EOLhyphen"/>foreſaid Book, whereſoever, in whatſoever Language, or by whatſoever Edition or Verſion hitherto Printed, or hereafter to be Printed; becauſe by the Reading and Peruſal thereof, the Faithful may by degrees, be drawn into Errors already Condemned by the Catholick Church; and becauſe it contains ſuch Propoſitions as are by an Expreſs or implyed Senſe, Raſh, Scandalous, Harſh, Offenſive to Pious Ears, Pernicious in Practice; and reſpectively Erroneous.</p>
+            <p>We further prohibit and forbid all and every the Faithful, from Print<g ref="char:EOLhyphen"/>ing, Diſcribing, Reading, Keeping, and Peruſing the ſaid Book, under pain of Excommunication <hi>ipſo facto,</hi> without any further Declaration. <hi>We</hi>
+               <pb n="2" facs="tcp:151182:2"/>will, and by vertue of <hi>Our</hi> Apoſtolical Authority, Command that all per<g ref="char:EOLhyphen"/>ſons who have the ſaid Book in their Poſſeſſion, do forth with, upon ſight of this our Letter, deliver up, and wholly Lodge it in the Hands of the Ordinaries of the Reſpective places, or of the Inquiſitors. The Propoſi<g ref="char:EOLhyphen"/>tions in the ſaid Book contained, on which we thought fit to paſs the Cenſure of <hi>Our</hi> Apoſtolical Sentence, Tranſlated out of <hi>French</hi> into <hi>Latin,</hi> are in Subſtance as follows, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. There is an habitual State of Divine Love, which is pure Charity, unmixed with any Alloy of ſelf-Intereſt. Neither the fear of Puniſhments, nor the deſire of Rewards have any thing to do with it. Nor is God any longer Loved, for Merit, for Perfection, or for any Felicity, to be met with in Loving him.</item>
+               <item>2. In the State of a Contemplative or Unitive Life, all Motives ariſing from Hope and Fear are laid aſide.</item>
+               <item>3. That which is Eſſential in the Direction of a Soul to this Love, is nothing elſe, but to follow Step by Step the Grace of GOD with Infinit Patience, Precaution, and Exactneſs. Men muſt keep within thoſe bounds, that ſo GOD may be left to be the Sole Agent, and not lead them to Pure Love, till he begins by the Internal Unction, to open the heart for this Word, which is ſo hard a Saying to Souls as yet full of themſelves, as may either Scandalize them, or cauſe ſome diſturbance to them.</item>
+               <item>4. In a State of Holy Indifference, the Soul no longer retains any vo<g ref="char:EOLhyphen"/>luntary and deliberate deſires for its own intereſt, unleſs in ſuch Caſes, wherein it does not <hi>Bona Fide,</hi> Co-operat wholly for its own ſake alone.</item>
+               <item>5. In the ſame State of Holy Indifference, we will nothing for our ſelves, but all things for GOD. We deſire nothing that may be Perfect and Hap<g ref="char:EOLhyphen"/>py for our own proper Intereſt, but deſire all Perfection and Happineſs ſo far forth as GOD is pleaſed to effect it, that ſo we may Will theſe things by the Impulſe of his Grace.</item>
+               <item>6. In this State we no longer deſire Salvation, as our own Salvation, as Eternal Redemption, as the Reward of our Merits; but we Freely Will it, as the Glory and good Pleaſure of GOD, as a thing He Wills, and would have us to Will for His Sake.</item>
+               <item>7. Dereliction is nothing elſe but a Mans Renouncing and denying of himſelf, which JESUS CHRIST Requires of us in the Goſpel, after we have forſaken all External things. This Self-denial Relates only to our own private Intereſt. The greateſt probations, in which this Self-denyal or Dereliction of our ſelves ought to be Exerciſed, are the Temptati<g ref="char:EOLhyphen"/>ons, by which GOD who is the Rival, would Purifie our Love, by ſhew<g ref="char:EOLhyphen"/>ing that it has no other Sanctuary, nor any other Hope, no not ſo much as what Relates to our Everlaſting Intereſt.</item>
+               <pb n="3" facs="tcp:151182:2"/>
+               <item>8. All the Sacrifices, that are wont to be Offered by Souls the leaſt In<g ref="char:EOLhyphen"/>tereſted about their Eternal Happineſs, are Conditional. But this Sa<g ref="char:EOLhyphen"/>crifice cannot be abſolute in an ordinary State. In the Single Inſtance of extream Trials, this Sacrifice becomes in ſome Meaſure abſolute.</item>
+               <item>9. In extream Trials, the Soul may be invincibly perſwaded by a Re<g ref="char:EOLhyphen"/>flexive Perſwaſion, and ſuch a Perſwaſion as ariſes not from the depth of Conſcience; that ſhe is Reprobated by GOD.</item>
+               <item>10. Then the Soul ſeparated from it ſelf, Cries out with CHRIST on the Croſs, ſaying, <hi>My GOD, my GOD, why haſt Thou forſaken Me?</hi> In this involuntary Impreſſion of deſperation, it offers up an abſolute Sacrifice of its Self-intereſt, as to what relates to Eternity.</item>
+               <item>11. In this State the Soul foregoes all Hope of its own private Intereſt; but in the Superior part, That is, in its direct and inward Acts, never parts with that Perfect Hope, which is the Diſintereſted deſire of the promiſes.</item>
+               <item>12. The Director may then permit ſuch a Soul to acquieſce ſimply in the loſs of its own private Intereſt, and in that Juſt Condemnation, which it believes is inflicted on it by GOD.</item>
+               <item>13. The Inferior part of CHRIST on the Croſs, did not Communicat to the Superior part its involuntary perturbations.</item>
+               <item>14. In extream Trials for the Purifying of our Love, there is ſome ſort of ſeparation made of the Superior part of the Soul from the Inferior part of it. In this Separation, the Acts of the Inferior part Flow from a Blind and Involuntary perturbation, for all that is Voluntary and Intellectual, belongs to the Superior part.</item>
+               <item>15. Meditation Conſiſts of Diſcurſive Acts, which are eaſily diſtin<g ref="char:EOLhyphen"/>guiſhed from each other — This Compoſition of Diſcurſive and Re<g ref="char:EOLhyphen"/>flexive Acts, is peculiar to the Exerciſe of Intereſted Love.</item>
+               <item>16. There is a State of ſo ſublime and perfect a Contemplation as may become Habitual; So, that as oft as the Soul Actually prays, its Prayer is Contemplative, not Diſcurſive. Then it has no more occaſion to have Recourſe to Meditation, and to its Methodical Actions.</item>
+               <item>17. Contemplative Souls are deprived of a Diſtinct, Senſible and Re<g ref="char:EOLhyphen"/>flexive Intuition of <hi>Jeſus Chriſt</hi>
+                  <list>
+                     <item>(1.) In the firſt Zeal of their Contem<g ref="char:EOLhyphen"/>plation, and</item>
+                     <item>[2.] in extream Trials.</item>
+                  </list>
+               </item>
+               <item>18. In the paſſive State, all the ſeveral Vertues are exerciſed without thinking that they be Vertues. Every Moment nothing elſe is thought of, but the doing of that which God Wills, and which a Jealous Love at the ſame Effects, that none might deſire Vertue for himſelf, nor be more Ver<g ref="char:EOLhyphen"/>tuous, than when he relies not upon Vertue.</item>
+               <item>19. In this Senſe it may be ſaid, That the Paſſive and Diſ-intereſted Soul, deſires not Love it ſelf, as it is its Perfection and Happineſs, but only as its that which GOD requires of us.</item>
+               <pb n="4" facs="tcp:151182:3"/>
+               <item>20. In Confeſſion, converted Souls ought to detaſte their Sins, and Con<g ref="char:EOLhyphen"/>demn themſelves, deſire Remiſſion of their Sins, not as their own Purifi<g ref="char:EOLhyphen"/>cation and Redemption, but as the thing which GOD Wills, and would have us Will for His Glory.</item>
+               <item>21. The Holy Myſticks have excluded the practice of Vertue, from the State of Transformed Souls.</item>
+               <item>22. Tho this Doctrine <hi>[of Pure Love]</hi> be the pure and ſimple Evangelical Perfection, ſet down by Univerſal Tradition; Yet the Ancient Paſtors did not Generally propoſe to the Multitude of the Faithful, any thing but the exerciſe of Intereſted Love proportioned to their Graces.</item>
+               <item>23. Pure Love is that alone which Conſtitutes the whole Internal Life, and thence proceeds the only Principle, and only Motive of all the Actions which are Deliberate and Meritorious.</item>
+            </list>
+            <p>By the expreſs Condemnation of theſe Propoſitions, we would not be thought to approve of the other things contained in this Book. But that theſe Our Letters Patent, may be the more eaſily notified to all Men, and that none may plead Ignorance in the Caſe: We likewiſe will, and by the aforeſaid Authority, command that they be publiſhed as uſual by one of our Curriers, before the Gates of <hi>Our Royal Palace, of Our Apoſtolical Court of</hi> Chancery, and of the General Court on the <hi>Citatorian Mount,</hi> and at the Entrance of <hi>Campus Florae</hi> without the City, and that Copies of them be ſet up at the ſaid places: That being thus publiſhed, they might prevail on all and every perſon, whom they concern, as much as if they had a perſonal notice thereof. We moreover Require, that the ſame Credit be every where given both Judicially, and Extrajudicially to the Printed Co<g ref="char:EOLhyphen"/>pies of theſe our Letters Patent, Subſcribed by a publick Notary, and Sealed by one in Eccleſiaſtical Authority; as ſhould be to theſe Pre<g ref="char:EOLhyphen"/>ſents, if exhibited and ſhewn. Given at <hi>Rome,</hi> at St. <hi>Maria Major,</hi> un<g ref="char:EOLhyphen"/>der the <hi>Papal Seal, March</hi> 12. 1699, in the Eight year of Our Pontificat</p>
+            <closer>
+               <signed>Signed, <hi>I F.</hi> Card. Albanus.</signed>
+
+               <signed>Signed, <hi>Sebaſtianus Vaſſellus,</hi> Mag. Curſ.</signed>
+            </closer>
+            <postscript>
+               <p>In the Year 1699 In the Seventh Indiction, on the 13th of March, and in the Eight Year of the Popedom of the Moſt Holy Father in Chriſt; and our Lord <hi>Inno<g ref="char:EOLhyphen"/>cent 12,</hi> by Divine providence Pope, the aforeſaid Bull was ſet up and Publiſhed before the Gates of the Pope's Royal Palace of <hi>Innocent's</hi> Great Court, at the En<g ref="char:EOLhyphen"/>trance of <hi>Campus Florae,  </hi> and the other uſual places of the City; by me <hi>Francis Perinus,</hi> Currier to his Holineſs.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
